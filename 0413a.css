@@ -1,0 +1,33 @@
+body, p { margin: 0; }
+
+.mybox {
+    position: relative;
+    width: 400px;
+    margin-top: 24px;
+    margin-left: 40px;
+    padding: 16px;
+    background-color: #ffd7de;
+}
+.mybox img {
+    width: 100%;
+}
+#ibox {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    margin-top: 24px;
+    margin-left: 40px; 
+}
+#ibox img {
+    width: 100%;
+}
+#look-at-me {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 2000px;
+    left: 24px;
+}
+#look-at-me img {
+    width: 100%;
+}
